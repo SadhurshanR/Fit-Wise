@@ -1,0 +1,27 @@
+{
+  "fullbody": {
+    "description": "A complete full-body workout to strengthen muscles and burn fat.",
+    "workout": "      Set 01.\n      - Burpees: 12 reps\n      - Mountain Climbers: 20 reps\n      - Squat Jumps: 15 reps\n      - Push-Ups: 10 reps\n      - Plank with Shoulder Taps: 16 reps (8 each side)",
+    "image": "assets/images/fullbody.jpeg"
+  },
+  "lowerbody": {
+    "description": "This workout targets your lower body, including legs and glutes.",
+    "workout": "      Set 01.\n      - Squats: 15 reps\n      - Lunges: 12 reps per leg\n      - Glute Bridges: 20 reps\n      - Calf Raises: 15 reps\n      - Step-Ups: 10 reps per leg",
+    "image": "assets/images/lowerbody.jpg"
+  },
+  "abs": {
+    "description": "Improve core strength with this effective ab routine.",
+    "workout": "      Set 01.\n      - Crunches: 20 reps\n      - Leg Raises: 15 reps\n      - Russian Twists: 20 reps (10 each side)\n      - Plank Hold: 30 seconds\n      - Bicycle Crunches: 20 reps",
+    "image": "assets/images/ABs.png"
+  },
+  "upperbody": {
+    "description": "A workout focused on your arms, chest, and shoulders.",
+    "workout": "      Set 01.\n      - Push-Ups: 12 reps\n      - Tricep Dips: 15 reps\n      - Shoulder Press: 10 reps\n      - Bicep Curls: 12 reps\n      - Plank to Push-Up: 10 reps",
+    "image": "assets/images/upperbody.png"
+  },
+  "stretch": {
+    "description": "A cool-down routine to improve flexibility and reduce muscle soreness.",
+    "workout": "      Set 01.\n      - Hamstring Stretch: 30 seconds per leg\n      - Quad Stretch: 30 seconds per leg\n      - Shoulder Stretch: 30 seconds per side\n      - Cat-Cow Stretch: 30 seconds\n      - Child's Pose: 30 seconds",
+    "image": "assets/images/stretch.jpg"
+  }
+}
