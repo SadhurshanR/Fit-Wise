@@ -1,16 +1,18 @@
-# fit
+Fit Wise – Smart Fitness Tracking App 🏋️‍♂️📊
+Fit Wise is a Flutter-powered fitness tracking app designed to help users monitor their health, track workouts, and access real-time weather insights. With Firebase Authentication, Cloud Firestore, and local data storage, it ensures a seamless experience with both online and offline functionality.
 
-A new Flutter project.
+🚀 Features
+✅ User Authentication – Secure login & registration using Firebase Authentication
+✅ Profile Management – Store & fetch user details (Name, Age, Height, Weight) from Cloud Firestore
+✅ Sleep Tracker with Weather Data – Fetch real-time weather updates via OpenWeather API
+✅ Offline Data Storage – Cache sleep tracking data using Hive database
+✅ Workout List & Details – Scrollable list with master/detail view for fitness plans
+✅ Mobile Device Capabilities – Integrates Camera, Gallery Access, Battery Status Monitoring
+✅ Network Connectivity Check – Detects online/offline status & adapts app behavior
+✅ Responsive UI – Follows Android platform guidelines, includes Bottom Navigation Bar
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Tech Stack
+Frontend: Flutter, Dart
+Backend & Database: Firebase Authentication, Firebase Cloud Firestore
+APIs & Storage: OpenWeather API, Hive (local storage)
+UI/UX: Material Design, Bottom Navigation, Scrollable Lists
